@@ -7,7 +7,9 @@ invalues=numbers.split("");
 invalues.forEach(function(digit){
 value=numbers[parsenlnt(digit)]{
   value +=numbers[parsenlnt(digit);
-}
 }}
-
+intexts[i] = value;
+i++;
+}
+console.log(intexts.join(","))
 }
