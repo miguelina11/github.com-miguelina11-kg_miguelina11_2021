@@ -5,7 +5,9 @@ my argument.foreach(function(number)){
 value="";
 invalues=numbers.split("");
 invalues.forEach(function(digit){
-value=numbers[parsenlnt(digi)];
+value=numbers[parsenlnt(digit)]{
+  value +=numbers[parsenlnt(digit);
+}
 }}
 
 }
